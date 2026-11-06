@@ -1,0 +1,13 @@
+{
+  "appName": "Kawaii Animes Premium",
+  "version": "2.1.3",
+  "forceUpdate": true,
+  "updateUrl": "https://t.me/RealCatrin",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium",
+ "Sin Anuncios",
+ "Alta calidad de reproducción"
+ ]
+}
